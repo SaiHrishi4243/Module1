@@ -13,6 +13,20 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
+```python
+
+a=int(input())
+if(a%2==0):
+    print("EVEN")
+else:
+    print("ODD")
+
+```
+
 ## Output
 
+![Screenshot 2025-06-01 223944](https://github.com/user-attachments/assets/e6a11105-cddc-47c7-9cc1-b1fa3466992a)
+
 ## Result
+
+Thus the program has been implemented to check if the given input is even or odd number.
